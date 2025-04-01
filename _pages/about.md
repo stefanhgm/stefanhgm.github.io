@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher at <a href='https://www.bihealth.org/en/research/research-group/eils-lab-bih-digital-health-center'>BIH</a> and resident physician at <a href='https://www.dhzc.charite.de/en/departments/ccm-department-of-cardiology-angiology-and-intensive-care-medicine/'>Charité</a> in Berlin.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +18,14 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: o # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am interested in machine learning for healthcare. My research focuses on harnessing large generative models to enable efficient, high-performing predictions, and on applying natural language processing techniques to clinical text. I am particularly interested in using state-of-the-art machine learning methods to address meaningful medical problems and improve healthcare delivery.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a affiliated postdoctoral researcher at the Eils lab focussing on aritficial intelligence in healthcare. I am also a resident physician at the Department of Cardiology, Angiology and Intensive Care Medicine at the Charité in Berlin, where I am involved in clinical practice. My goal is to bridge the gap between modern machine learning and clinical practice.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I have obtained a Master's degree in computer science from RWTH Aachen University with stays at the University of Gothenburg and UC Berkeley. After that I obtained a medical degree (MD) and a PhD in computer science from the University of Münster and visited MIT as a visiting PhD student. 
