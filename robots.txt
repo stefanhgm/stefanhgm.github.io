@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://stefanhgm.github.io/sitemap.xml
