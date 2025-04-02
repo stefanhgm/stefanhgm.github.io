@@ -28,4 +28,6 @@ I am interested in machine learning for healthcare. My research focuses on harne
 
 I am currently a affiliated postdoctoral researcher at the Eils lab focussing on aritficial intelligence in healthcare. I am also a resident physician at the Department of Cardiology, Angiology and Intensive Care Medicine at the Charité in Berlin, where I am involved in clinical practice. My goal is to bridge the gap between modern machine learning and clinical practice.
 
-Previously, I have obtained a Master's degree in computer science from RWTH Aachen University with stays at the University of Gothenburg and UC Berkeley. After that I obtained a medical degree (MD) and a PhD in computer science from the University of Münster and visited MIT as a visiting PhD student. 
+Previously, I have obtained a Master's degree in computer science from RWTH Aachen University with stays at the University of Gothenburg and UC Berkeley. After that I obtained a medical degree (MD) and a PhD in computer science from the University of Münster and visited MIT as a visiting scholar. 
+
+You can find all my papers on my <a href="https://scholar.google.de/citations?user=-lnWdScAAAAJ&hl=en">Google Scholar</a> profile.
