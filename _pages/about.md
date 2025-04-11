@@ -24,10 +24,10 @@ announcements:
 #   limit: o # leave blank to include all the blog posts
 ---
 
-I am interested in machine learning for healthcare. My research focuses on harnessing large generative models to enable efficient, high-performing predictions, and on applying natural language processing techniques to clinical text. I am particularly interested in using state-of-the-art machine learning methods to address meaningful medical problems and improve healthcare delivery.
+I am interested in machine learning for healthcare. My research focuses on using large generative models to enable efficient, high-performing predictions, and on applying natural language processing techniques to clinical text. I am particularly interested in using state-of-the-art machine learning methods to address meaningful medical problems and improve healthcare delivery.
 
-I am currently a affiliated postdoctoral researcher at the Eils lab focussing on aritficial intelligence in healthcare. I am also a resident physician at the Department of Cardiology, Angiology and Intensive Care Medicine at the Charité in Berlin, where I am involved in clinical practice. My goal is to bridge the gap between modern machine learning and clinical practice.
+I am currently an affiliated postdoctoral researcher at the Eils lab focussing on artificial intelligence in healthcare. I am also a resident physician at the Department of Cardiology, Angiology and Intensive Care Medicine at the Charité in Berlin, where I am involved in clinical practice. My goal is to bridge the gap between modern machine learning and clinical practice.
 
-Previously, I have obtained a Master's degree in computer science from RWTH Aachen University with stays at the University of Gothenburg and UC Berkeley. After that I obtained a medical degree (MD) and a PhD in computer science from the University of Münster and visited MIT as a visiting scholar. 
+Previously, I have obtained a Master's degree in computer science from RWTH Aachen University with stays at the University of Gothenburg and UC Berkeley. After that I obtained a medical degree (MD) and a PhD in computer science from the University of Münster and worked with the Clinical ML group at MIT. 
 
 You can find all my papers on my <a href="https://scholar.google.de/citations?user=-lnWdScAAAAJ&hl=en">Google Scholar</a> profile.
